@@ -75,12 +75,12 @@ export const PORTFOLIO_CONFIG = {
     avatarUrl:  "/steven-loic.jpg",
     
     // CV slot: Set to a local path (e.g., "/cv-steven-mbiamy.pdf") when provided.
-    resumePdfUrl: null as string | null,
+    resumePdfUrl: "/cv-steven-mbiamy.pdf",
 
     // Social Links
     socialLinks: {
       github: null as string | null,
-      linkedin: null as string | null,
+      linkedin: "https://www.linkedin.com/in/steven-mbiamy-630906238/",
     },
   },
 
